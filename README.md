@@ -1,105 +1,97 @@
-<!--<h1 align="center">Hi 👋, I'm Hasini Rajapaksha</h1>
-<h3 align="center">A passionate undergraduate in Software Systems developing impactful projects.</h3>
+<h1 align="center">Hasini Rajapaksha</h1>
+
+<h3 align="center">A passionate Data Engineer & Software Developer</h3>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer;Automation+Enthusiast" alt="Typing SVG" />
-</div>  
-
-
-
-
-- 🔭 I’m currently working on  **Next-Gen Automated Document Fetching and Delivery**
-
-- 🌱 
-
-- 👨‍💻 
-
-- 📝 
-
-- 💬 Ask me about **Web Automation,Software Development,**
-
-- 📄
- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hasini rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasini rajapaksha" height="30" width="40" /></a>
-<a href="https://medium.com/hasini rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hasini rajapaksha" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+My+Profile%21;Software+Developer;Data+Engineer;Building+Tomorrow's+Solutions;Code+%2B+Data+%3D+Magic;Turning+Ideas+into+Reality" alt="Typing SVG" />
+</div>
 
 <br>
+
+```python
+class UniversityStudent:
+    def __init__(self):
+        self.name = "Hasini Rajapaksha"
+        self.university = "University of Kelaniya"
+        self.passions = [
+            "Data Engineering",
+            "Software Development",
+        ]
+        self.current_projects = [
+            {
+                "name": "Grocery Store Application",
+                "description": "A Python Flask and MySQL powered Grocery Store Application that enables secure, full featured CRUD operations with relational integrity and a vertically sliced architecture."
+            },
+            {
+                "name": "Sri Lanka EV vs Fuel Vehicle Cost Analysis",
+                "description": "Sri Lankan Vehicle Cost Intelligence Electric Vehicle TCO (Total Cost of Ownership) Analysis Pipeline"
+            }
+        ]
+        self.current_mission = (
+            "Designing and experimenting with data pipelines",
+            "Developing hands on Software applications",
+            "Strong focus on mastering core data structures and leveraging web automation",
+            "Bridging the gap between software systems and data solutions ",
+            "Through thoughtful engineering and continuous learning."
+        )
+        self.academic_routine = [
+            "Exploring modern technologies and engineering practices",
+            "Collaborating with peers on academic projects",
+            "Documenting progress and reflecting on learning"
+        ]
+
+    def get_vision(self):
+        return (
+            "To engineer intelligent, data driven systems that enable meaningful insights, "
+            "Empower users, and drive innovation through elegant and efficient software."
+        )
+```
+
 <br>
-  <br>
-  
-<!--[![Hasini's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HasiniRajapaksha&theme=tokyonight)](https://git.io/praveenscience)-->
 
-<!--| ![Hasini's github stats](https://github-readme-stats.vercel.app/api?username=HasiniRajapaksha&show_icons=true&theme=tokyonight) | ![Hasini GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasiniRajapaksha&theme=tokyonight) |
-| --- | --- |-->
-<!--| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniRajapaksha&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=HasiniRajapaksha&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-<br>-->
- 
+## 🔧 My Arsenal of Tools
+<div align="center">
 
+### Core Programming Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,c" />
 
+### Software Development Stack
+<img src="https://skillicons.dev/icons?i=react,nodejs,selenium,mysql" /> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" alt="sqlite" width="47" height="47"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="47" height="47"/>
 
+### Data Engineering Powerhouse
 
+<img width="41" height="41" alt="image" src="https://github.com/user-attachments/assets/3c550abf-7503-4aac-8ce9-22898c0a7ae9" />
+<img width="47" height="47" alt="image" src="https://miro.medium.com/v2/format:webp/1*-hkzF9m5828c-UIaSQNUug.jpeg" /> 
+<img width="47" height="47" alt="image" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Icon-Obsolete2020Black.png" /> 
+<img width="47" height="47" alt="image" src="https://github.com/user-attachments/assets/e56eab63-d6f5-4c30-8c68-3f6346714be4" />
+<img width="47" height="47" alt="image" src="https://github.com/user-attachments/assets/5abd6c45-b1a7-4152-93bd-bf31014099a3" />
+<img width="47" height="47" alt="image" src="https://github.com/user-attachments/assets/b86e913f-4156-4681-b97c-d1471eeec2e2" />
+<img width="47" height="47" alt="image" src="https://github.com/user-attachments/assets/66df71d4-7f70-44df-8c19-9a222af722aa" />
+<!--<img width="47" height="47" alt="image" src="https://github.com/user-attachments/assets/efe3c232-c1f5-4187-b834-451d5cee970d" /> 
+<img width="47" height="47" alt="image" src="https://github.com/user-attachments/assets/f1b643e2-1295-41fb-807f-e23ea132ffed" />-->
 
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</div>
 
+## 🤝 Let's Connect & Collaborate!
 
+<div align="center">
+<br>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasini-rajapaksha/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmr200103@gmail.com)
 
+</div>
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**HasiniRajapaksha/HasiniRajapaksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Thank+you+for+visiting!" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</div>
