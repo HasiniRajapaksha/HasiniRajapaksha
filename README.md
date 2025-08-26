@@ -11,7 +11,7 @@
 <br>
 
 
-🎓 **Undergraduate Student at University of Kelaniya**  
+🎓 **Undergraduate BICT Student at University of Kelaniya**  
 💡 Passionate about **Data Engineering** & **Software Development**  
 🌱 Currently exploring **Data Pipelines, Web Automation, and Full-Stack Development, Data Streaming**  
 📫 Reach me at: [hmr200103@gmaiil.com]  
