@@ -1,54 +1,88 @@
-<h1 align="center">Hasini Rajapaksha</h1>
 
-<h3 align="center">A passionate Data Engineer & Software Developer</h3>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+My+Profile%21;Software+Developer;Data+Engineer;Building+Tomorrow's+Solutions;Code+%2B+Data+%3D+Magic;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
 <br>
+👋 Hi, I'm Hasini Rajapaksha  
 
-```python
-class UniversityStudent:
-    def __init__(self):
-        self.name = "Hasini Rajapaksha"
-        self.university = "University of Kelaniya"
-        self.passions = [
-            "Data Engineering",
-            "Software Development",
-        ]
-        self.current_projects = [
-            {
-                "name": "Grocery Store Application",
-                "description": "A Python Flask and MySQL powered Grocery Store Application that enables secure, full featured CRUD operations with relational integrity and a vertically sliced architecture."
-            },
-            {
-                "name": "Sri Lanka EV vs Fuel Vehicle Cost Analysis",
-                "description": "Sri Lankan Vehicle Cost Intelligence Electric Vehicle TCO (Total Cost of Ownership) Analysis Pipeline"
-            }
-        ]
-        self.current_mission = (
-            "Designing and experimenting with data pipelines",
-            "Developing hands on Software applications",
-            "Strong focus on mastering core data structures and leveraging web automation",
-            "Bridging the gap between software systems and data solutions ",
-            "Through thoughtful engineering and continuous learning."
-        )
-        self.academic_routine = [
-            "Exploring modern technologies and engineering practices",
-            "Collaborating with peers on academic projects",
-            "Documenting progress and reflecting on learning"
-        ]
+🎓 **Undergraduate Student at University of Kelaniya**  
+💡 Passionate about **Data Engineering** & **Software Development**  
+🌱 Currently exploring **Data Pipelines, Web Automation, and Full-Stack Development**  
+📫 Reach me at: [your email]  
+🌐 Connect on [LinkedIn](your-linkedin) | [Portfolio](your-portfolio)  
 
-    def get_vision(self):
-        return (
-            "To engineer intelligent, data driven systems that enable meaningful insights, "
-            "Empower users, and drive innovation through elegant and efficient software."
-        )
-```
+---
+
+## 🚀 Current Projects  
+
+- **Grocery Store Application**  
+  *A Python Flask and MySQL powered Grocery Store Application that enables secure, full-featured CRUD operations with relational integrity and a vertically sliced architecture.*
+
+- **Sri Lanka EV vs Fuel Vehicle Cost Analysis**  
+  *Sri Lankan Vehicle Cost Intelligence – Electric Vehicle TCO (Total Cost of Ownership) Analysis Pipeline.*
+
+---
+
+## 🎯 Current Mission  
+
+- Designing and experimenting with **data pipelines**  
+- Developing hands-on **software applications**  
+- Mastering **core data structures** & leveraging **web automation**  
+- Bridging the gap between **software systems** and **data solutions**  
+- Committed to **thoughtful engineering** and **continuous learning**
+
+---
+
+## 📚 Academic Routine  
+
+- Exploring modern technologies and engineering practices  
+- Collaborating with peers on academic projects  
+- Documenting progress and reflecting on learning  
+
+---
+
+## 🌟 Vision  
+
+*"To engineer intelligent, data-driven systems that enable meaningful insights, empower users, and drive innovation through elegant and efficient software."*
+
+---
+
+## 🛠️ Tech Stack & Tools  
+
+- **Languages:** Python, SQL, JavaScript, TypeScript  
+- **Frameworks & Libraries:** Flask, React  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Platforms:** Git, Docker, Power BI, Apache Spark, Airflow  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+## 🌱 Learning & Interests  
+
+- Data Engineering pipelines & ETL processes  
+- Web automation and scraping  
+- Machine Learning & AI applications  
+- Software architecture & scalable systems  
+
+---
+
+## 💬 Fun Facts  
+
+- Love to experiment with small automation projects  
+- Enjoy solving algorithmic challenges  
+- Passionate about bridging data and software to solve real-world problems  
+
 
 <br>
-
 ## 🔧 My Arsenal of Tools
 <div align="center">
 
