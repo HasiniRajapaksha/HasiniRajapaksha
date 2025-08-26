@@ -1,3 +1,5 @@
+<h1 align="center">👋 Hi, I'm Hasini Rajapaksha  </h1>
+
 
 
 
@@ -7,13 +9,13 @@
 </div>
 
 <br>
-👋 Hi, I'm Hasini Rajapaksha  
+
 
 🎓 **Undergraduate Student at University of Kelaniya**  
 💡 Passionate about **Data Engineering** & **Software Development**  
-🌱 Currently exploring **Data Pipelines, Web Automation, and Full-Stack Development**  
-📫 Reach me at: [your email]  
-🌐 Connect on [LinkedIn](your-linkedin) | [Portfolio](your-portfolio)  
+🌱 Currently exploring **Data Pipelines, Web Automation, and Full-Stack Development, Data Streaming**  
+📫 Reach me at: [hmr200103@gmaiil.com]  
+🌐 Connect on [LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] | [Portfolio](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]  
 
 ---
 
@@ -45,25 +47,6 @@
 
 ---
 
-## 🌟 Vision  
-
-*"To engineer intelligent, data-driven systems that enable meaningful insights, empower users, and drive innovation through elegant and efficient software."*
-
----
-
-## 🛠️ Tech Stack & Tools  
-
-- **Languages:** Python, SQL, JavaScript, TypeScript  
-- **Frameworks & Libraries:** Flask, React  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, Docker, Power BI, Apache Spark, Airflow  
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ---
 
 ## 🌱 Learning & Interests  
@@ -75,11 +58,7 @@
 
 ---
 
-## 💬 Fun Facts  
 
-- Love to experiment with small automation projects  
-- Enjoy solving algorithmic challenges  
-- Passionate about bridging data and software to solve real-world problems  
 
 
 <br>
@@ -108,6 +87,12 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </div>
 
+## 💬 Fun Facts  
+
+- Love to experiment with small automation projects  
+- Enjoy solving algorithmic challenges  
+- Passionate about bridging data and software to solve real-world problems
+  
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
